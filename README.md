@@ -26,11 +26,41 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 
 ### optimizaton method
 
+![optimization method](https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/opt.png)
+
 ### drop out layers
+
+<table>
+  <tr>
+    <td> Model </td>
+    <td> with Drop out </td>
+    <td> no Drop out</td>
+  </tr>
+  <tr>
+    <td> ----- </td>
+    <td> <img src="https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/no-dropout-model.png"> </td>
+    <td> <img src="https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/dropout-model.png"> </td>
+  </tr>
+</table>
 
 ### data augmentation
 
+![dataaugmentation](https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/augmentation.png)
+
 ### batch normalization
+
+<table>
+  <tr>
+    <td> Model </td>
+    <td> accuracy </td>
+    <td> loss </td>
+  </tr>
+  <tr>
+    <td> Batch Norm </td>
+    <td> <img src="https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/norm-accuracy.png"> </td>
+    <td> <img src="https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/norm-loss.png"> </td>
+  </tr>
+</table>
 
 
 ## Resources
