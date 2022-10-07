@@ -16,18 +16,16 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
     <td> Accuray </td>
     <td> Loss</td>
   </tr>
-  
-  ### activation functions
-  
-  ### optimizaton method
-  
-  ### drop out layers
-  
-  ### data augmentation
-  
-  ### batch normalization
-
 </table>
+### activation functions
+
+### optimizaton method
+
+### drop out layers
+
+### data augmentation
+
+### batch normalization
 
 
 ## Resources
