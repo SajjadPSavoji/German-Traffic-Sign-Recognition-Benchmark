@@ -4,6 +4,30 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 
 
 ## Resutls
+### base model
+<table>
+  <tr>
+    <td> Model </td>
+    <td> Accuray </td>
+    <td> Loss</td>
+  </tr>
+  <tr>
+    <td> Base Model </td>
+    <td> Accuray </td>
+    <td> Loss</td>
+  </tr>
+  
+  ### activation functions
+  
+  ### optimizaton method
+  
+  ### drop out layers
+  
+  ### data augmentation
+  
+  ### batch normalization
+
+</table>
 
 
 ## Resources
