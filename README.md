@@ -19,7 +19,10 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
     <td> <img src="https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/loss-base.png"> </td>
   </tr>
 </table>
+
 ### activation functions
+
+![activation functions accuracy](https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/Assets/activation-fn.png)
 
 ### optimizaton method
 
