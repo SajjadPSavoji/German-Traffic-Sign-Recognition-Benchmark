@@ -7,5 +7,5 @@ The German Traffic Sign Benchmark is a multi-class, single-image classification 
 
 
 ## Resources
--[GtSR Benchmark Paper](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
--[Traffic Sign Recognition Database](http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html)
+- [GtSR Benchmark Paper](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign)
+- [Traffic Sign Recognition Database](http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html)
