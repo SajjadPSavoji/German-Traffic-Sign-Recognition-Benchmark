@@ -1,5 +1,7 @@
 # GTSRB
 
+![project banner](https://github.com/SajjadPSavoji/German-Traffic-Sign-Recognition-Benchmark/blob/master/German.jpeg)
+
 The German Traffic Sign Benchmark is a multi-class, single-image classification challenge held at the International Joint Conference on Neural Networks (IJCNN) 2011. In this case study we examine the effect of common components in CNNs(including normalization layers) on the traceability and generalization capabilities
 
 
